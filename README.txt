@@ -6,3 +6,6 @@ Then, a user-secret must be created, associating the index "TheMoviesDB:APIKey" 
 To make this in a terminal utilizing the dotnet command, would be:
 
 > dotnet user-secrets set "TheMoviesDB:APIKey" {API Key}
+
+
+MADE BY: Tomás Martins
